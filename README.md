@@ -34,7 +34,7 @@ Dataset available in the `data` folder.
 - Git & GitHub
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](Student-dashboard1.png)
+![Dashboard Preview](Student-dashboard1)
 
 ---
 
